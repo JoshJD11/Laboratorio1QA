@@ -1,1 +1,1 @@
-Los casos de prueba están todos en el archivo: sorted-list-of-immutables.model.spec.ts
+Los casos de prueba están todos en el siguiente archivo: sorted-list-of-immutables.model.spec.ts
